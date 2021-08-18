@@ -2,7 +2,8 @@
 <html>
   <body>
       DEEP LEARNING!!!
-      regression!!!
+      linear regression + polynomial regression
+      plotting of graphs -> regression
   </body>
 
 </html>
